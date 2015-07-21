@@ -20,15 +20,14 @@ Create Simple Wp Image Slider and add Multiple images.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Open WP Image Slider and add a slide
 4. Upload Multiple Images
-5. Shortcode For page template: example
-  <?php echo do_shortcode('[wp_easy_image_slider id=67]');?> where id = your slider id
 
 == Frequently Asked Questions ==
 
 <h4>Que1.How install plugin in my WordPress site ?</h4>
 <p>Ans1. Now its easy please follow this link and you will found best solution http://codex.wordpress.org/Managing_Plugins</p>
 
-<h4>Que2. How to use Simple Image Slider plugin ?</h4>
+<h4>Que2. How to use WP Easy Image Slider plugin ?</h4>
+its very Easy [wp_easy_image_slider id=67] where id = Your Slider Id
 <h4>Que3. Is is possible to display multiple slider on single page/post?</h4>
 <p>Ans3. yes.</p>
 == Screenshots ==
