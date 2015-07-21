@@ -13,7 +13,7 @@ Simple Image Slide permits users to create Image Slide Show.
 == Description ==
 
 Create Simple Wp Image Slider and add Multiple images.
-
+WP Easy Image Slider Plugin allows to create Multiple Slider With that you can Upload Multiple Images. after Addning  you get Shortcode With Id For the Particular Slider.By You can Use this shortcode in your post/page and Also In page template. 
 == Installation ==
 
 1. Upload 'WP Easy Image Slider' to the wordpress admin
@@ -30,8 +30,7 @@ Create Simple Wp Image Slider and add Multiple images.
 its very Easy [wp_easy_image_slider id=67] where id = Your Slider Id
 <h4>Que3. Is is possible to display multiple slider on single page/post?</h4>
 <p>Ans3. yes.</p>
+<p>How can i used This shortcode In Template ? </p>
+Ans: You can Simply add this Php Code: <?php echo do_shortcode('[wp_easy_image_slider id=67]');?>
 == Screenshots ==
-Easy to upload Images
-Screenshots in the /images 
-directory take precedence. For example, `/images/image_uploading.png`
-(or jpg, jpeg, gif).
+Easy to upload Images.
