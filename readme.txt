@@ -31,6 +31,6 @@ its very Easy [wp_easy_image_slider id=67] where id = Your Slider Id
 <h4>Que3. Is is possible to display multiple slider on single page/post?</h4>
 <p>yes.</p>
 <h4>Que3.How can i used This shortcode In Template ? </h4>
-<p>You can Simply add this Php Code: <?php echo do_shortcode('[wp_easy_image_slider id=67]');?></p>
+<p>You can Simply add this Php Code: echo do_shortcode('[wp_easy_image_slider id=67]');</p>
 == Screenshots ==
 Easy to upload Images.
