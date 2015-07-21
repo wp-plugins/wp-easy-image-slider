@@ -30,7 +30,7 @@ WP Easy Image Slider Plugin allows to create Multiple Slider With that you can U
 its very Easy [wp_easy_image_slider id=67] where id = Your Slider Id
 <h4>Que3. Is is possible to display multiple slider on single page/post?</h4>
 <p>yes.</p>
-<h4>How can i used This shortcode In Template ? </h4>
-You can Simply add this Php Code: <?php echo do_shortcode('[wp_easy_image_slider id=67]');?>
+<h4>Que3.How can i used This shortcode In Template ? </h4>
+<p>You can Simply add this Php Code: <?php echo do_shortcode('[wp_easy_image_slider id=67]');?></p>
 == Screenshots ==
 Easy to upload Images.
